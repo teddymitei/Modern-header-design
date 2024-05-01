@@ -91,3 +91,18 @@
     transform: rotate(-90deg) translateX(50%);
     width: max-content;
 }
+
+.text-box{
+    margin-top: 20%;
+    font-size: 18px;
+    color: #fff;
+}
+
+.text-box h1{
+    font-weight: 500;
+    font-size: 86px;
+    max-width: 550px;
+    line-height: 95px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
