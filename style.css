@@ -106,3 +106,18 @@
     margin-top: 10px;
     margin-bottom: 30px;
 }
+
+.text-box .icon{
+    background: #e91e63;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.text-box .icon img{
+    width: 15px;
+}
